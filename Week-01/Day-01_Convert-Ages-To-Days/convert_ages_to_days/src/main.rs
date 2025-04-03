@@ -1,5 +1,9 @@
 use std::io;
 
+fn calc_age(age: u32) -> u32 {
+    age * 365
+}
+
 fn main() {
 
     loop {
@@ -18,9 +22,9 @@ fn main() {
             Err(_) => continue,
         };
 
-        let age: u32 = guess * 365;
+        let days = calc_age(guess);
 
-        println!("You are roughly {age} days old!")
+        println!("You are roughly {days} days old!")
 
     }
 
