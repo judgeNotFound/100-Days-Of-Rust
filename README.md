@@ -1,4 +1,4 @@
-<h1 align="center">100 Days of Rust 🦀 </h1>
+<h2 align="center">100 Days of Rust 🦀 </h1>
 <p align="center">
 <img width="" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e4796b9znwjl0zqxljtzh2xe4yer17y5oojmj5kztep&rid=giphy.gif&ct=g" align="center" alt="gif" />
 </p>
@@ -49,7 +49,7 @@ We encourage you to share your progress and ask questions in the Discussions sec
 | ------------- |:-------------------------------------:| -------------------------:|
 | Day #1        | [Convert Age To Days](https://github.com/LiveGray/100-Days-Of-Rust/tree/main/Week-01/Day-01_Convert-Ages-To-Days)                   | :white_check_mark:      |
 | Day #2        | [Finding Nemo](https://github.com/LiveGray/100-Days-Of-Rust/tree/main/Week-01/Day-02_Finding-Nemo)                          | :white_check_mark:      |
-| Day #3        | [Barbecue Skewers](https://github.com/LiveGray/100-Days-Of-Rust/tree/main/Week-01/Day-03_Barbecue-Skewers)                      | :white_large_square:      |
+| Day #3        | [Barbecue Skewers](https://github.com/LiveGray/100-Days-Of-Rust/tree/main/Week-01/Day-03_Barbecue-Skewers)                      | :white_check_mark:      |
 | Day #4        | [Is Johnny Making Progress](https://github.com/LiveGray/100-Days-Of-Rust/tree/main/Week-01/Day-04_Is-Johnny-Making-Progress)             | :white_large_square:      |
 | Day #5        | [Pair Of Socks](https://github.com/LiveGray/100-Days-Of-Rust/tree/main/Week-01/Day-05_Pair-Of-Socks)                         | :white_large_square:      |
 | Day #6        | [Next Prime](https://github.com/LiveGray/100-Days-Of-Rust/tree/main/Week-01/Day-06_Next-Prime)                            | :white_large_square:      |
